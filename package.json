@@ -1,0 +1,21 @@
+{
+  "name": "medium-reader",
+  "version": "0.1.0",
+  "description": "A package to deliver Medium RSS feed results in a nice manner.",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.51.0",
+    "xml2js": "^0.4.4"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0",
+    "should": "^4.6.1",
+    "sinon": "^1.12.2"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha -R nyan"
+  },
+  "author": "Joe Flasher",
+  "license": "BSD"
+}

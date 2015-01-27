@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[S/V Firefly on Medium]]></title>
+        <description><![CDATA[Latest posts by S/V Firefly on medium.com]]></description>
+        <link>https://medium.com/@sv_ff</link>
+        <image>
+            <url>https://d262ilb51hltx0.cloudfront.net/fit/c/150/150/0*XYZ0LMfofSTv45Xj.jpeg</url>
+            <title>S/V Firefly on Medium</title>
+            <link>https://medium.com/@sv_ff</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 27 Jan 2015 00:58:56 GMT</lastBuildDate>
+        <atom:link href="https://medium.com/feed/@sv_ff" rel="self" type="application/rss+xml"/>
+        <webMaster><![CDATA[yourfriends@medium.com]]></webMaster>
+        <atom:link href="http://medium.superfeedr.com" rel="hub"/>
+        <item>
+            <title><![CDATA[We bought a boat!]]></title>
+            <description><![CDATA[<div class="medium-feed-item"><p class="medium-feed-image"><a href="https://medium.com/@sv_ff/we-bought-a-boat-79d7e3d98a4a"><img src="https://d262ilb51hltx0.cloudfront.net/fit/c/600/200/1*G21gqfOtrHTtkPGUQ6uvpg.jpeg" width="600" height="200"></a></p><p class="medium-feed-snippet">Christa surprised me with a trip up to Maine for my birthday last year. While on that trip, we stayed a night on a small, very old wooden&#8230;</p><p class="medium-feed-link"><a href="https://medium.com/@sv_ff/we-bought-a-boat-79d7e3d98a4a">Continue reading on Medium »</a></p></div>]]></description>
+            <link>https://medium.com/@sv_ff/we-bought-a-boat-79d7e3d98a4a</link>
+            <guid isPermaLink="false">https://medium.com/p/79d7e3d98a4a</guid>
+            <dc:creator><![CDATA[S/V Firefly]]></dc:creator>
+            <pubDate>Mon, 26 Jan 2015 00:59:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
